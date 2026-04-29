@@ -1,3 +1,7 @@
+# Description
+
+The following project is from the ETH course "Controversies of Game Theory" of spring semester 2025
+
 # Key Players:
 
 **Human Users (H):**
